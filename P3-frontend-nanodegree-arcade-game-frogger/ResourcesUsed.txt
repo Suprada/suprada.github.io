@@ -1,0 +1,8 @@
+Resources Used:
+
+Front end NanoDegree Discussion Forums on Piazza
+Udacity classes: Object-Oriented javascript, HTML5 canvas
+
+https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub
+Library Book - http://www.amazon.com/Beginning-JavaScript-Paul-Wilton/dp/0470525932
+http://en.wikipedia.org/wiki/Frogger
